@@ -1,5 +1,4 @@
 ## Links-de-Aprendizado
-# mulheresdevbrasil
 
 **Mulheres Desenvolvedoras - Brasil**
 
