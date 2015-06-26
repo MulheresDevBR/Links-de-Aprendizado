@@ -11,9 +11,6 @@ Algumas regras do grupo:
 - Aqui deve ser um espaço seguro. Não será tolerado nenhum tipo de discriminação, de qualquer tipo;
 - Compartilhar é muito muito muito bem vindo!
 
-
-----------
-
 ### WordPress
 
 **Desenvolvimento**
@@ -22,3 +19,9 @@ Algumas regras do grupo:
 *     [Criando um post customizado – Parte 3 – Criando categorias e tags personalizadas](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-3-criando-categorias-e-tags-personalizadas/)
 *     [Criando um post customizado – Parte 4 – Gerenciando colunas na tela administrativa de postagens](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-4-gerenciando-colunas-na-tela-administrativa-de-postagens/)
 *     [Criando um post customizado – Parte 5 – Filtrando postagens através de campos personalizados](https://mycodewith.wordpress.com/2013/09/10/criando-um-post-customizado-parte-5-filtrando-postagens-atraves-de-campos-personalizados/)
+
+### Cursos Online (ou MOOCs)
+
+* [Codecademy](http://www.codecademy.com/pt)
+* [Coursera](http://www.coursera.org)
+* [Udemy](https://www.udemy.com)
