@@ -31,5 +31,6 @@ Algumas regras do grupo:
 ### Livros
 
 * [AWS para Desenvolvedores](http://novatec.com.br/livros/aws-desenvolvedores)
+* [Criando Aplicações Web com WordPress: WordPress como um Framework de Aplicações](http://novatec.com.br/livros/aplicacoeswordpress)
 * [Lógica de Programação:Crie seus primeiros programas usando Javascript e HTML](http://www.casadocodigo.com.br/products/livro-programacao)
 
