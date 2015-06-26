@@ -11,11 +11,19 @@ Algumas regras do grupo:
 - Aqui deve ser um espaço seguro. Não será tolerado nenhum tipo de discriminação, de qualquer tipo;
 - Compartilhar é muito muito muito bem vindo!
 
+### WordPress
+
+**Desenvolvimento**
+*     [Criando um post customizado – Parte1](https://mycodewith.wordpress.com/2013/09/06/criando-um-post-customizado/)
+*     [Criando um post customizado – Parte 2 – Adicionando campos personalizados](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-2-adicionando-campos-personalizados/)
+*     [Criando um post customizado – Parte 3 – Criando categorias e tags personalizadas](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-3-criando-categorias-e-tags-personalizadas/)
+*     [Criando um post customizado – Parte 4 – Gerenciando colunas na tela administrativa de postagens](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-4-gerenciando-colunas-na-tela-administrativa-de-postagens/)
+*     [Criando um post customizado – Parte 5 – Filtrando postagens através de campos personalizados](https://mycodewith.wordpress.com/2013/09/10/criando-um-post-customizado-parte-5-filtrando-postagens-atraves-de-campos-personalizados/)
+
 ### Cursos Online (ou MOOCs)
 
-[Codecademy](http://www.codecademy.com/pt)
+*     [Codecademy](http://www.codecademy.com/pt)
 
-[Coursera](http://www.coursera.org)
+*     [Coursera](http://www.coursera.org)
 
-[Udemy](https://www.udemy.com)
-
+*     [Udemy](https://www.udemy.com)
