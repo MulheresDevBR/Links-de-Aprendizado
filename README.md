@@ -24,4 +24,12 @@ Algumas regras do grupo:
 
 * [Codecademy](http://www.codecademy.com/pt)
 * [Coursera](http://www.coursera.org)
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
 * [Udemy](https://www.udemy.com)
+
+
+### Livros
+
+* [AWS para Desenvolvedores](http://novatec.com.br/livros/aws-desenvolvedores)
+* [Lógica de Programação:Crie seus primeiros programas usando Javascript e HTML](http://www.casadocodigo.com.br/products/livro-programacao)
+
