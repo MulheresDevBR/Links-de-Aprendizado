@@ -23,7 +23,5 @@ Algumas regras do grupo:
 ### Cursos Online (ou MOOCs)
 
 * [Codecademy](http://www.codecademy.com/pt)
-
 * [Coursera](http://www.coursera.org)
-
 * [Udemy](https://www.udemy.com)
