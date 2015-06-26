@@ -10,3 +10,12 @@ Algumas regras do grupo:
 - O propósito deste grupo é ter desenvolvedoras trocando conhecimento sobre o assunto;
 - Aqui deve ser um espaço seguro. Não será tolerado nenhum tipo de discriminação, de qualquer tipo;
 - Compartilhar é muito muito muito bem vindo!
+
+### Cursos Online (ou MOOCs)
+
+[Codecademy](http://www.codecademy.com/pt)
+
+[Coursera](http://www.coursera.org)
+
+[Udemy](https://www.udemy.com)
+
