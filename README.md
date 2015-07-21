@@ -59,13 +59,19 @@ Algumas regras do grupo:
 * [BrasilJS Conf](http://braziljs.com.br)
 
 Data: 21 a 22 de agosto de 2015
+
 Local: BarraShoppingSul - Porto Alegre, RS.
+
 Valor: R$240,00
 
 * [Campus Party](http://brasil.campus-party.org)
 
 Data: 22 a 26 de julho de 2015
+
 Local: Olinda, PE. Centro de Convenções de Pernambuco.
+
 Valor de entrada ex-participantes: R$140
+
 Valor de entrada público geral: R$160
+
 Valor do camping: R$35,00
