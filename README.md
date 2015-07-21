@@ -49,6 +49,7 @@ Algumas regras do grupo:
 * [Screenfly - Simulador de Telas](http://quirktools.com/screenfly/)
 
 1. Gerenciador de projetos
+
 * [Paymo](https://www.paymoapp.com/)
 * [Trello](https://trello.com)
 * [Runrun It](http://runrun.it/pt-BR)
