@@ -48,7 +48,7 @@ Algumas regras do grupo:
 * [Grid Calculator](http://gridcalculator.dk)
 * [Screenfly - Simulador de Telas](http://quirktools.com/screenfly/)
 
-1. Gerenciador de projetos
+1. Gerenciadores de projetos
 
 * [Paymo](https://www.paymoapp.com/)
 * [Trello](https://trello.com)
@@ -57,10 +57,13 @@ Algumas regras do grupo:
 ### Eventos
 
 * [BrasilJS Conf](http://braziljs.com.br)
+
 Data: 21 a 22 de agosto de 2015
 Local: BarraShoppingSul - Porto Alegre, RS.
 Valor: R$240,00
+
 * [Campus Party](http://brasil.campus-party.org)
+
 Data: 22 a 26 de julho de 2015
 Local: Olinda, PE. Centro de Convenções de Pernambuco.
 Valor de entrada ex-participantes: R$140
