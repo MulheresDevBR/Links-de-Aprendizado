@@ -6,7 +6,7 @@ Este será um espaço para o compartilhamento de recursos de aprendizado sobre p
 Mulheres Desenvolvedoras - Brasil é grupo do Facebook que originou este repositório.
 [Visite o Grupo e Participe!](https://www.facebook.com/groups/285943684909704/)
 
-Algumas regras do grupo: 
+Algumas regras do grupo:
 - O propósito deste grupo é ter desenvolvedoras trocando conhecimento sobre o assunto;
 - Aqui deve ser um espaço seguro. Não será tolerado nenhum tipo de discriminação, de qualquer tipo;
 - Compartilhar é muito muito muito bem vindo!
@@ -24,12 +24,17 @@ Algumas regras do grupo:
 
 * [Codecademy](http://www.codecademy.com/pt)
 * [Coursera](http://www.coursera.org)
+* [edX](https://www.edx.org/)
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
 * [Udemy](https://www.udemy.com)
 
+### Git & GitHub
+
+* [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+* [Screencast - Começando com Git (Akita on Rails)](http://www.akitaonrails.com/2010/08/17/screencast-comecando-com-git)
 
 ### Livros
 
 * [AWS para Desenvolvedores](http://novatec.com.br/livros/aws-desenvolvedores)
 * [Lógica de Programação:Crie seus primeiros programas usando Javascript e HTML](http://www.casadocodigo.com.br/products/livro-programacao)
-
+* [Diversos e-books sobre tecnologia](http://www.syncfusion.com/resources/techportal/ebooks)
