@@ -65,8 +65,8 @@ Algumas regras do grupo:
 
 * [QCon São Paulo 2016](http://qconsp.com/)
 
-Conferência: 28 a 30 de março de 2016
-Workshops: 30 de março de 2016 e 01 de abril de 2016
+* Conferência: 28 a 30 de março de 2016
+* Workshops: 30 de março de 2016 e 01 de abril de 2016
 
 Local: WTC Events Center - São Paulo, SP.
 
