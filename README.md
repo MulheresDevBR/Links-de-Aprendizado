@@ -47,7 +47,7 @@ Algumas regras do grupo:
 
 * [Github, como usar? - Paula Grangeiro](https://www.youtube.com/watch?v=FsGTNgqkjoU&feature=youtu.be)
 
-* [Conteúdo Campus Party 2015 - SP Por Streamming](http://campuse.ro/)
+* [Palestras Campus Party 2015 - SP](http://campuse.ro/)
 
 ### Ferramentas
 
