@@ -30,6 +30,10 @@ Algumas regras do grupo:
 * [Curso em Vídeo](http://www.cursoemvideo.com)
 * [GoLearny](http://www.golearny.com/pt/)
 * [NodeSchool](http://nodeschool.io/pt-br/)
+* [AngularJS - Playlist com diversos assustos desse framework genial](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
+* [Python 3 (Web, básico, GUI...)](https://pythonprogramming.net/)
+* [Free Code Camp](http://www.freecodecamp.com/)
+* [Quer treinar programação e estudar algoritmos?](https://www.hackerrank.com/)
 
 ### Livros
 
@@ -37,10 +41,13 @@ Algumas regras do grupo:
 * [Lógica de Programação:Crie seus primeiros programas usando Javascript e HTML](http://www.casadocodigo.com.br/products/livro-programacao)
 * [Eloquent Javascript](http://eloquentjavascript.com.br) (Gratuito e traduzido)
 * [Livros Casa do Código](https://mega.nz/#F!AhZjHahZ!uOurBRXw1ScQOfDb8qynyQ)
+* [Diversos Livros de TI](http://devfreebooks.org/)
 
 ### Hangouts
 
 * [Github, como usar? - Paula Grangeiro](https://www.youtube.com/watch?v=FsGTNgqkjoU&feature=youtu.be)
+
+* [Palestras Campus Party 2015 - SP](http://campuse.ro/)
 
 ### Ferramentas
 
@@ -56,22 +63,11 @@ Algumas regras do grupo:
 
 ### Eventos
 
-* [BrasilJS Conf](http://braziljs.com.br)
+* [QCon São Paulo 2016](http://qconsp.com/)
 
-Data: 21 a 22 de agosto de 2015
+* Conferência: 28 a 30 de março de 2016
+* Workshops: 30 de março de 2016 e 01 de abril de 2016
 
-Local: BarraShoppingSul - Porto Alegre, RS.
+Local: WTC Events Center - São Paulo, SP.
 
-Valor: R$240,00
-
-* [Campus Party](http://brasil.campus-party.org)
-
-Data: 22 a 26 de julho de 2015
-
-Local: Olinda, PE. Centro de Convenções de Pernambuco.
-
-Valor de entrada ex-participantes: R$140
-
-Valor de entrada público geral: R$160
-
-Valor do camping: R$35,00
+* [Valores :)](http://qconsp.com/registration)
