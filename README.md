@@ -30,6 +30,10 @@ Algumas regras do grupo:
 * [Curso em Vídeo](http://www.cursoemvideo.com)
 * [GoLearny](http://www.golearny.com/pt/)
 * [NodeSchool](http://nodeschool.io/pt-br/)
+* [AngularJS - Playlist com diversos assustos desse framework genial](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
+* [Python 3 (Web, básico, GUI...)](https://pythonprogramming.net/)
+* [Free Code Camp](http://www.freecodecamp.com/)
+* [Quer treinar programação e estudar algoritmos?](https://www.hackerrank.com/)
 
 ### Livros
 
@@ -37,6 +41,7 @@ Algumas regras do grupo:
 * [Lógica de Programação:Crie seus primeiros programas usando Javascript e HTML](http://www.casadocodigo.com.br/products/livro-programacao)
 * [Eloquent Javascript](http://eloquentjavascript.com.br) (Gratuito e traduzido)
 * [Livros Casa do Código](https://mega.nz/#F!AhZjHahZ!uOurBRXw1ScQOfDb8qynyQ)
+* [Diversos Livros de TI](http://devfreebooks.org/)
 
 ### Hangouts
 
