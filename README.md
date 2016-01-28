@@ -70,4 +70,4 @@ Workshops: 30 de março de 2016 e 01 de abril de 2016
 
 Local: WTC Events Center - São Paulo, SP.
 
-* [Valores:](http://qconsp.com/registration)
+* [Valores :)](http://qconsp.com/registration)
