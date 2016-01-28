@@ -63,22 +63,11 @@ Algumas regras do grupo:
 
 ### Eventos
 
-* [BrasilJS Conf](http://braziljs.com.br)
+* [QCon São Paulo 2016](http://qconsp.com/)
 
-Data: 21 a 22 de agosto de 2015
+Conferência: 28 a 30 de março de 2016
+Workshops: 30 de março de 2016 e 01 de abril de 2016
 
-Local: BarraShoppingSul - Porto Alegre, RS.
+Local: WTC Events Center - São Paulo, SP.
 
-Valor: R$240,00
-
-* [Campus Party](http://brasil.campus-party.org)
-
-Data: 22 a 26 de julho de 2015
-
-Local: Olinda, PE. Centro de Convenções de Pernambuco.
-
-Valor de entrada ex-participantes: R$140
-
-Valor de entrada público geral: R$160
-
-Valor do camping: R$35,00
+* [Valores:](http://qconsp.com/registration)
