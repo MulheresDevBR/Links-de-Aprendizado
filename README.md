@@ -35,8 +35,6 @@ Algumas regras do grupo:
 
 * [AWS para Desenvolvedores](http://novatec.com.br/livros/aws-desenvolvedores)
 * [Lógica de Programação:Crie seus primeiros programas usando Javascript e HTML](http://www.casadocodigo.com.br/products/livro-programacao)
-* [Eloquent Javascript](http://eloquentjavascript.com.br) (Gratuito e traduzido)
-* [Livros Casa do Código](https://mega.nz/#F!AhZjHahZ!uOurBRXw1ScQOfDb8qynyQ)
 
 ### Hangouts
 
