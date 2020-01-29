@@ -14,11 +14,11 @@ Algumas regras do grupo:
 ### WordPress
 
 **Desenvolvimento**
-*     [Criando um post customizado – Parte1](https://mycodewith.wordpress.com/2013/09/06/criando-um-post-customizado/)
-*     [Criando um post customizado – Parte 2 – Adicionando campos personalizados](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-2-adicionando-campos-personalizados/)
-*     [Criando um post customizado – Parte 3 – Criando categorias e tags personalizadas](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-3-criando-categorias-e-tags-personalizadas/)
-*     [Criando um post customizado – Parte 4 – Gerenciando colunas na tela administrativa de postagens](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-4-gerenciando-colunas-na-tela-administrativa-de-postagens/)
-*     [Criando um post customizado – Parte 5 – Filtrando postagens através de campos personalizados](https://mycodewith.wordpress.com/2013/09/10/criando-um-post-customizado-parte-5-filtrando-postagens-atraves-de-campos-personalizados/)
+- [Criando um post customizado – Parte1](https://mycodewith.wordpress.com/2013/09/06/criando-um-post-customizado/)
+- [Criando um post customizado – Parte 2 – Adicionando campos personalizados](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-2-adicionando-campos-personalizados/)
+- [Criando um post customizado – Parte 3 – Criando categorias e tags personalizadas](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-3-criando-categorias-e-tags-personalizadas/)
+- [Criando um post customizado – Parte 4 – Gerenciando colunas na tela administrativa de postagens](https://mycodewith.wordpress.com/2013/09/09/criando-um-post-customizado-parte-4-gerenciando-colunas-na-tela-administrativa-de-postagens/)
+- [Criando um post customizado – Parte 5 – Filtrando postagens através de campos personalizados](https://mycodewith.wordpress.com/2013/09/10/criando-um-post-customizado-parte-5-filtrando-postagens-atraves-de-campos-personalizados/)
 
 ### Cursos Online (ou MOOCs)
 
@@ -58,20 +58,8 @@ Algumas regras do grupo:
 
 * [BrasilJS Conf](http://braziljs.com.br)
 
-Data: 21 a 22 de agosto de 2015
+Data: 1 a 3 de Outubro de 2020
 
-Local: BarraShoppingSul - Porto Alegre, RS.
+Local: Porto Alegre, RS.
 
-Valor: R$240,00
-
-* [Campus Party](http://brasil.campus-party.org)
-
-Data: 22 a 26 de julho de 2015
-
-Local: Olinda, PE. Centro de Convenções de Pernambuco.
-
-Valor de entrada ex-participantes: R$140
-
-Valor de entrada público geral: R$160
-
-Valor do camping: R$35,00
+Valor: R$160,00 (Early Access)
